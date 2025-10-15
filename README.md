@@ -4,6 +4,7 @@
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---:  |
 | [Day 1](./src/bin/01.rs) | `4.1µs` | `2.5µs` |
+| [Day 2](./src/bin/02.rs) | `25.5µs` | `21.6µs` |
 
-**Total: 0.01ms**
+**Total: 0.05ms**
 <!--- benchmarking table --->
